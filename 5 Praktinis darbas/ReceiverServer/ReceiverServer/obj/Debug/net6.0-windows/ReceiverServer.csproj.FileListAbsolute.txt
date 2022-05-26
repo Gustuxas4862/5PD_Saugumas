@@ -1,0 +1,34 @@
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ReceiverServer.csproj.AssemblyReference.cache
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ReceiverServer.ServerPanel.resources
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ReceiverServer.csproj.GenerateResource.cache
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ReceiverServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ReceiverServer.AssemblyInfoInputs.cache
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ReceiverServer.AssemblyInfo.cs
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ReceiverServer.csproj.CoreCompileInputs.cache
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\bin\Debug\net6.0-windows\ReceiverServer.exe
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\bin\Debug\net6.0-windows\ReceiverServer.deps.json
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\bin\Debug\net6.0-windows\ReceiverServer.runtimeconfig.json
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\bin\Debug\net6.0-windows\ReceiverServer.dll
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\bin\Debug\net6.0-windows\ReceiverServer.pdb
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ReceiverServer.dll
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\refint\ReceiverServer.dll
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ReceiverServer.pdb
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ReceiverServer.genruntimeconfig.cache
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ref\ReceiverServer.dll
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\bin\Debug\net6.0-windows\ReceiverServer.exe
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\bin\Debug\net6.0-windows\ReceiverServer.deps.json
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\bin\Debug\net6.0-windows\ReceiverServer.runtimeconfig.json
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\bin\Debug\net6.0-windows\ReceiverServer.dll
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\bin\Debug\net6.0-windows\ReceiverServer.pdb
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ReceiverServer.csproj.AssemblyReference.cache
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ReceiverServer.ServerPanel.resources
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ReceiverServer.csproj.GenerateResource.cache
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ReceiverServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ReceiverServer.AssemblyInfoInputs.cache
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ReceiverServer.AssemblyInfo.cs
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ReceiverServer.csproj.CoreCompileInputs.cache
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ReceiverServer.dll
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\refint\ReceiverServer.dll
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ReceiverServer.pdb
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ReceiverServer.genruntimeconfig.cache
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\ReceiverServer\ReceiverServer\obj\Debug\net6.0-windows\ref\ReceiverServer.dll

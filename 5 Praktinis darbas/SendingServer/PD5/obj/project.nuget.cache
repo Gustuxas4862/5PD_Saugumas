@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a59d+2G95ynP9FJDVe+tpW9XitRfu7PPtjlO5wSIKDqhRgBqlIPnifeXkhwAmp9DjnCsyO022wtuZC8+1HDraA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gustu\\Desktop\\Studies 2022\\Cryptography\\5 Praktinis darbas\\SendingServer\\PD5\\PD5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gustu\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

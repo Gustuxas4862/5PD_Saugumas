@@ -1,0 +1,38 @@
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\PD5\PD5\bin\Debug\net6.0-windows\PD5.exe
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\PD5\PD5\bin\Debug\net6.0-windows\PD5.deps.json
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\PD5\PD5\bin\Debug\net6.0-windows\PD5.runtimeconfig.json
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\PD5\PD5\bin\Debug\net6.0-windows\PD5.dll
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\PD5\PD5\bin\Debug\net6.0-windows\PD5.pdb
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\PD5\PD5\obj\Debug\net6.0-windows\PD5.csproj.AssemblyReference.cache
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\PD5\PD5\obj\Debug\net6.0-windows\PD5.DigitalSignaturePanel.resources
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\PD5\PD5\obj\Debug\net6.0-windows\PD5.Properties.Resources.resources
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\PD5\PD5\obj\Debug\net6.0-windows\PD5.csproj.GenerateResource.cache
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\PD5\PD5\obj\Debug\net6.0-windows\PD5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\PD5\PD5\obj\Debug\net6.0-windows\PD5.AssemblyInfoInputs.cache
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\PD5\PD5\obj\Debug\net6.0-windows\PD5.AssemblyInfo.cs
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\PD5\PD5\obj\Debug\net6.0-windows\PD5.csproj.CoreCompileInputs.cache
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\PD5\PD5\obj\Debug\net6.0-windows\PD5.dll
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\PD5\PD5\obj\Debug\net6.0-windows\refint\PD5.dll
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\PD5\PD5\obj\Debug\net6.0-windows\PD5.pdb
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\PD5\PD5\obj\Debug\net6.0-windows\PD5.genruntimeconfig.cache
+C:\Users\gustu\Desktop\Cryptography\5 Praktinis darbas\PD5\PD5\obj\Debug\net6.0-windows\ref\PD5.dll
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\SendingServer\PD5\obj\Debug\net6.0-windows\PD5.csproj.AssemblyReference.cache
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\SendingServer\PD5\obj\Debug\net6.0-windows\PD5.DigitalSignaturePanel.resources
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\SendingServer\PD5\obj\Debug\net6.0-windows\PD5.Properties.Resources.resources
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\SendingServer\PD5\obj\Debug\net6.0-windows\PD5.csproj.GenerateResource.cache
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\SendingServer\PD5\obj\Debug\net6.0-windows\PD5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\SendingServer\PD5\obj\Debug\net6.0-windows\PD5.AssemblyInfoInputs.cache
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\SendingServer\PD5\obj\Debug\net6.0-windows\PD5.AssemblyInfo.cs
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\SendingServer\PD5\obj\Debug\net6.0-windows\PD5.csproj.CoreCompileInputs.cache
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\SendingServer\PD5\obj\Debug\net6.0-windows\PD5.dll
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\SendingServer\PD5\obj\Debug\net6.0-windows\refint\PD5.dll
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\SendingServer\PD5\obj\Debug\net6.0-windows\PD5.pdb
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\SendingServer\PD5\bin\Debug\net6.0-windows\PD5.exe
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\SendingServer\PD5\bin\Debug\net6.0-windows\PD5.deps.json
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\SendingServer\PD5\bin\Debug\net6.0-windows\PD5.runtimeconfig.json
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\SendingServer\PD5\bin\Debug\net6.0-windows\PD5.dll
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\SendingServer\PD5\bin\Debug\net6.0-windows\PD5.pdb
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\SendingServer\PD5\bin\Debug\net6.0-windows\BCrypt.Net-Core.dll
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\SendingServer\PD5\obj\Debug\net6.0-windows\PD5.csproj.CopyComplete
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\SendingServer\PD5\obj\Debug\net6.0-windows\PD5.genruntimeconfig.cache
+C:\Users\gustu\Desktop\Studies 2022\Cryptography\5 Praktinis darbas\SendingServer\PD5\obj\Debug\net6.0-windows\ref\PD5.dll
